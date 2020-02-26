@@ -1,0 +1,1356 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-02-25T20:28:48.692-05:00
+  initializedAtString: 2020-02-25T20:28:48.692-05:00
+  entries:
+  - path: .DS_Store
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Armor-Wing.git/config
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/config
+    projectPath: Armor-Wing.git/config
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/description
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/description
+    projectPath: Armor-Wing.git/description
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/HEAD
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/HEAD
+    projectPath: Armor-Wing.git/HEAD
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/hooks/applypatch-msg.sample
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/hooks/applypatch-msg.sample
+    projectPath: Armor-Wing.git/hooks/applypatch-msg.sample
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/hooks/commit-msg.sample
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/hooks/commit-msg.sample
+    projectPath: Armor-Wing.git/hooks/commit-msg.sample
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/hooks/fsmonitor-watchman.sample
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/hooks/fsmonitor-watchman.sample
+    projectPath: Armor-Wing.git/hooks/fsmonitor-watchman.sample
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/hooks/post-update.sample
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/hooks/post-update.sample
+    projectPath: Armor-Wing.git/hooks/post-update.sample
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/hooks/pre-applypatch.sample
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/hooks/pre-applypatch.sample
+    projectPath: Armor-Wing.git/hooks/pre-applypatch.sample
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/hooks/pre-commit.sample
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/hooks/pre-commit.sample
+    projectPath: Armor-Wing.git/hooks/pre-commit.sample
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/hooks/prepare-commit-msg.sample
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/hooks/prepare-commit-msg.sample
+    projectPath: Armor-Wing.git/hooks/prepare-commit-msg.sample
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/hooks/pre-push.sample
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/hooks/pre-push.sample
+    projectPath: Armor-Wing.git/hooks/pre-push.sample
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/hooks/pre-rebase.sample
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/hooks/pre-rebase.sample
+    projectPath: Armor-Wing.git/hooks/pre-rebase.sample
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/hooks/pre-receive.sample
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/hooks/pre-receive.sample
+    projectPath: Armor-Wing.git/hooks/pre-receive.sample
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/hooks/update.sample
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/hooks/update.sample
+    projectPath: Armor-Wing.git/hooks/update.sample
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/info/exclude
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/info/exclude
+    projectPath: Armor-Wing.git/info/exclude
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/objects/02/cf85c138d1b2666cb82a119a292ad68e856c51
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/objects/02/cf85c138d1b2666cb82a119a292ad68e856c51
+    projectPath: Armor-Wing.git/objects/02/cf85c138d1b2666cb82a119a292ad68e856c51
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/objects/0e/bdfacc1f3f29af060f37b10712183b86fc5647
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/objects/0e/bdfacc1f3f29af060f37b10712183b86fc5647
+    projectPath: Armor-Wing.git/objects/0e/bdfacc1f3f29af060f37b10712183b86fc5647
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/objects/cb/300d2b6a623d062a40a87538c6a56458e0c6e1
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/objects/cb/300d2b6a623d062a40a87538c6a56458e0c6e1
+    projectPath: Armor-Wing.git/objects/cb/300d2b6a623d062a40a87538c6a56458e0c6e1
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Armor-Wing.git/packed-refs
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Armor-Wing.git/packed-refs
+    projectPath: Armor-Wing.git/packed-refs
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Dragon AR Game.sln
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Dragon AR Game.sln
+    projectPath: Dragon AR Game.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/APIUpdater/project-dependencies.graph
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/assetDatabase3
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/11/1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/11/1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library/metadata/11/1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/11/1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/11/1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library/metadata/11/1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/13/136dc24f151211d438acee17aff4e934
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/13/136dc24f151211d438acee17aff4e934
+    projectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+    projectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/15/151a1d946b98deb4b98445400983ba92
+    projectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/18/181f65fb096cedd4493bc9971257d8b1
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/18/181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library/metadata/18/181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/18/181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/18/181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library/metadata/18/181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/23/23c8bee69b591054094d32918f98facd
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/23/23c8bee69b591054094d32918f98facd
+    projectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+    projectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library/metadata/25/2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/55/555cd6f54c03341b1970d950df1a5ee5
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/55/555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library/metadata/55/555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/55/555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/55/555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library/metadata/55/555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library/metadata/68/68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/81/8166f8079d1bf40f48f1bbf67b8266b3
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/81/8166f8079d1bf40f48f1bbf67b8266b3
+    projectPath: Library/metadata/81/8166f8079d1bf40f48f1bbf67b8266b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/81/8166f8079d1bf40f48f1bbf67b8266b3.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/81/8166f8079d1bf40f48f1bbf67b8266b3.info
+    projectPath: Library/metadata/81/8166f8079d1bf40f48f1bbf67b8266b3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/86/863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/86/863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library/metadata/86/863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/86/863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/86/863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library/metadata/86/863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/87/877ef3585573ce44eab899298be23158
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/87/877ef3585573ce44eab899298be23158
+    projectPath: Library/metadata/87/877ef3585573ce44eab899298be23158
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/87/877ef3585573ce44eab899298be23158.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/87/877ef3585573ce44eab899298be23158.info
+    projectPath: Library/metadata/87/877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+    projectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+    projectPath: Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d0/d07682f7c510145c7bbb8d1c303f1fd9
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/d0/d07682f7c510145c7bbb8d1c303f1fd9
+    projectPath: Library/metadata/d0/d07682f7c510145c7bbb8d1c303f1fd9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d0/d07682f7c510145c7bbb8d1c303f1fd9.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/d0/d07682f7c510145c7bbb8d1c303f1fd9.info
+    projectPath: Library/metadata/d0/d07682f7c510145c7bbb8d1c303f1fd9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library/metadata/d6/d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/da/dae2ecee8a704dd59797e26554ff8606
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/da/dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library/metadata/da/dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/da/dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/da/dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library/metadata/da/dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library/metadata/f8/f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Subsystem.Registration.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll
+    projectPath: Library/ScriptAssemblies/Unity.Subsystem.Registration.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.XR.ARFoundation.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll
+    projectPath: Library/ScriptAssemblies/Unity.XR.ARFoundation.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.XR.ARKit.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.XR.ARKit.dll
+    projectPath: Library/ScriptAssemblies/Unity.XR.ARKit.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll
+    projectPath: Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/UnityEditor.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.dll
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Library/ScriptAssemblies/UnityEngine.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/EditorSettings.asset
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/ProjectSettings/EditorSettings.asset
+    projectPath: ProjectSettings/EditorSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityTempFile-09608709b9ba34db081a128049c06e0e
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-09608709b9ba34db081a128049c06e0e
+    projectPath: Temp/UnityTempFile-09608709b9ba34db081a128049c06e0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-12747213f623647c3b07edf1d8c5b250
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-12747213f623647c3b07edf1d8c5b250
+    projectPath: Temp/UnityTempFile-12747213f623647c3b07edf1d8c5b250
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-170e9757aaab0443c9d6d93bb1006eb1
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-170e9757aaab0443c9d6d93bb1006eb1
+    projectPath: Temp/UnityTempFile-170e9757aaab0443c9d6d93bb1006eb1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-19079ff3f2125455f92a6c5f2ca80b48
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-19079ff3f2125455f92a6c5f2ca80b48
+    projectPath: Temp/UnityTempFile-19079ff3f2125455f92a6c5f2ca80b48
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1d7c303fe636a47738e964f6a9cd3e6c
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-1d7c303fe636a47738e964f6a9cd3e6c
+    projectPath: Temp/UnityTempFile-1d7c303fe636a47738e964f6a9cd3e6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-22b90c0724a744aa98351737b7aafab1
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-22b90c0724a744aa98351737b7aafab1
+    projectPath: Temp/UnityTempFile-22b90c0724a744aa98351737b7aafab1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2341877334d4043e78f5ca2ec54c941f
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-2341877334d4043e78f5ca2ec54c941f
+    projectPath: Temp/UnityTempFile-2341877334d4043e78f5ca2ec54c941f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-27865ddf84f2543469143b02f542d05a
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-27865ddf84f2543469143b02f542d05a
+    projectPath: Temp/UnityTempFile-27865ddf84f2543469143b02f542d05a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2ad799c3ab8554ad3b5be3bc253ca67e
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-2ad799c3ab8554ad3b5be3bc253ca67e
+    projectPath: Temp/UnityTempFile-2ad799c3ab8554ad3b5be3bc253ca67e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2f21791ad7ab94629a231b8912120723
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-2f21791ad7ab94629a231b8912120723
+    projectPath: Temp/UnityTempFile-2f21791ad7ab94629a231b8912120723
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-391d9b1f132ec44d5a1c40b9dc6f2fb9
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-391d9b1f132ec44d5a1c40b9dc6f2fb9
+    projectPath: Temp/UnityTempFile-391d9b1f132ec44d5a1c40b9dc6f2fb9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-46c94568c867a47108cbc76cfa0d47d4
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-46c94568c867a47108cbc76cfa0d47d4
+    projectPath: Temp/UnityTempFile-46c94568c867a47108cbc76cfa0d47d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-50fc4d56961ab423e8d42ab1b2fcdf67
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-50fc4d56961ab423e8d42ab1b2fcdf67
+    projectPath: Temp/UnityTempFile-50fc4d56961ab423e8d42ab1b2fcdf67
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5804a5bfe60da42649ade3fe985d2a33
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-5804a5bfe60da42649ade3fe985d2a33
+    projectPath: Temp/UnityTempFile-5804a5bfe60da42649ade3fe985d2a33
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5a651ae5e3c84436fa254a1c95c19127
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-5a651ae5e3c84436fa254a1c95c19127
+    projectPath: Temp/UnityTempFile-5a651ae5e3c84436fa254a1c95c19127
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5b4f455af73ad4b1281ab18ac01c9061
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-5b4f455af73ad4b1281ab18ac01c9061
+    projectPath: Temp/UnityTempFile-5b4f455af73ad4b1281ab18ac01c9061
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5d96fa0d9eddd4b5c8704ba8c4092e62
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-5d96fa0d9eddd4b5c8704ba8c4092e62
+    projectPath: Temp/UnityTempFile-5d96fa0d9eddd4b5c8704ba8c4092e62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-64fcfd77d5a23483d9b0683e70c1bd93
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-64fcfd77d5a23483d9b0683e70c1bd93
+    projectPath: Temp/UnityTempFile-64fcfd77d5a23483d9b0683e70c1bd93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7cc0ae30f4a85437ab326879cd4112fc
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-7cc0ae30f4a85437ab326879cd4112fc
+    projectPath: Temp/UnityTempFile-7cc0ae30f4a85437ab326879cd4112fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-82664fa90f3d84569bd1e359f0325eb0
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-82664fa90f3d84569bd1e359f0325eb0
+    projectPath: Temp/UnityTempFile-82664fa90f3d84569bd1e359f0325eb0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-834dd4e9817574378bc75194ebe4cd0d
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-834dd4e9817574378bc75194ebe4cd0d
+    projectPath: Temp/UnityTempFile-834dd4e9817574378bc75194ebe4cd0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-83af6e1e10ef94d82aaecfacd3088acb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-83af6e1e10ef94d82aaecfacd3088acb
+    projectPath: Temp/UnityTempFile-83af6e1e10ef94d82aaecfacd3088acb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-84c86f1554eb84351bfdeea837ee9cfa
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-84c86f1554eb84351bfdeea837ee9cfa
+    projectPath: Temp/UnityTempFile-84c86f1554eb84351bfdeea837ee9cfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8d89e13b081634695b8312de6e574e36
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-8d89e13b081634695b8312de6e574e36
+    projectPath: Temp/UnityTempFile-8d89e13b081634695b8312de6e574e36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-90c5257eccf5941a5b29dc3fb4f3ea79
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-90c5257eccf5941a5b29dc3fb4f3ea79
+    projectPath: Temp/UnityTempFile-90c5257eccf5941a5b29dc3fb4f3ea79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-925a1cfa0c45841118b4680400d2ca0c
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-925a1cfa0c45841118b4680400d2ca0c
+    projectPath: Temp/UnityTempFile-925a1cfa0c45841118b4680400d2ca0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9a9105ce937474b08a6219da7260f982
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-9a9105ce937474b08a6219da7260f982
+    projectPath: Temp/UnityTempFile-9a9105ce937474b08a6219da7260f982
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9dd6f4b1a27b84bbe8ee6958493adb39
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-9dd6f4b1a27b84bbe8ee6958493adb39
+    projectPath: Temp/UnityTempFile-9dd6f4b1a27b84bbe8ee6958493adb39
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9ea27607be82b4ee398217513fc955a6
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-9ea27607be82b4ee398217513fc955a6
+    projectPath: Temp/UnityTempFile-9ea27607be82b4ee398217513fc955a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a2987f2b99d0f469292a7b1f7ea6fdf9
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-a2987f2b99d0f469292a7b1f7ea6fdf9
+    projectPath: Temp/UnityTempFile-a2987f2b99d0f469292a7b1f7ea6fdf9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-aa93b6e2ea932492ebefab8876d07eb7
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-aa93b6e2ea932492ebefab8876d07eb7
+    projectPath: Temp/UnityTempFile-aa93b6e2ea932492ebefab8876d07eb7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b54852f1a2d6c45e6b58170e7af4acc3
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-b54852f1a2d6c45e6b58170e7af4acc3
+    projectPath: Temp/UnityTempFile-b54852f1a2d6c45e6b58170e7af4acc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-be7b4fc0be39a4a2ab2ce25c75d9c925
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-be7b4fc0be39a4a2ab2ce25c75d9c925
+    projectPath: Temp/UnityTempFile-be7b4fc0be39a4a2ab2ce25c75d9c925
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c0b1342e14bed4b2581754e874319712
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-c0b1342e14bed4b2581754e874319712
+    projectPath: Temp/UnityTempFile-c0b1342e14bed4b2581754e874319712
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d0c9c0f88339b4c1eb255ff13360d346
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-d0c9c0f88339b4c1eb255ff13360d346
+    projectPath: Temp/UnityTempFile-d0c9c0f88339b4c1eb255ff13360d346
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d727f04b5c9f34e9d876ce5a4eccdbfa
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-d727f04b5c9f34e9d876ce5a4eccdbfa
+    projectPath: Temp/UnityTempFile-d727f04b5c9f34e9d876ce5a4eccdbfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-def9e875752964f759af7e54ba845ba1
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-def9e875752964f759af7e54ba845ba1
+    projectPath: Temp/UnityTempFile-def9e875752964f759af7e54ba845ba1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e2285ee1ae9364bfbb2ff00e7c8df99e
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-e2285ee1ae9364bfbb2ff00e7c8df99e
+    projectPath: Temp/UnityTempFile-e2285ee1ae9364bfbb2ff00e7c8df99e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e5c1e0792c8c74d9ba6e0810ca3089fb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-e5c1e0792c8c74d9ba6e0810ca3089fb
+    projectPath: Temp/UnityTempFile-e5c1e0792c8c74d9ba6e0810ca3089fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e89885e75872e4436be3151360230eeb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-e89885e75872e4436be3151360230eeb
+    projectPath: Temp/UnityTempFile-e89885e75872e4436be3151360230eeb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f1afe5dc8287344948866f10a2a665cb
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-f1afe5dc8287344948866f10a2a665cb
+    projectPath: Temp/UnityTempFile-f1afe5dc8287344948866f10a2a665cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f78274d1b163e477990047cfc593c1da
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-f78274d1b163e477990047cfc593c1da
+    projectPath: Temp/UnityTempFile-f78274d1b163e477990047cfc593c1da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-facab99448eaf4342b433f2fd04d54a7
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-facab99448eaf4342b433f2fd04d54a7
+    projectPath: Temp/UnityTempFile-facab99448eaf4342b433f2fd04d54a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-fde8b4839df28420b8ecbd919f08cdd0
+    fullPath: /Users/nuzhattani/Desktop/Dragon AR Game/Temp/UnityTempFile-fde8b4839df28420b8ecbd919f08cdd0
+    projectPath: Temp/UnityTempFile-fde8b4839df28420b8ecbd919f08cdd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
